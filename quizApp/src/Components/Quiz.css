@@ -1,0 +1,46 @@
+*{
+    background-color: blueviolet;
+}
+div{
+    background-color: white;
+}
+.Quiz{
+    color:black;
+    height: 700px;
+    width: 800px;
+    padding:100px;
+    border:solid black;
+    background-color: white;
+}
+h1{
+    color:black;
+    background-color: white;
+}
+.options{
+    
+    background-color:skyblue;
+    font-size: larger;
+    font-weight: bolder;
+    height: 5px;
+    width: 150px;
+    padding:50px;
+    margin: 50px;
+    border-radius: 80;
+    text-align: center;
+}
+
+.next{
+    color:black;
+    background-color: green;
+    margin:30px;
+}
+
+.prv{
+    color:black;
+    background-color: brown;
+}
+
+.quit{
+    color:black;
+    background-color: yellow;
+}
